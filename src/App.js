@@ -10,7 +10,7 @@ const App = () => {
     <div className="App flex flex-col" id='home'>
       <Navbar />
       <Hero />
-      {/* <MyRamen /> */}
+      <MyRamen />
       <Menu />
       <Contact />
     </div>

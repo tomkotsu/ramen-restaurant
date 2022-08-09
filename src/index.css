@@ -10,16 +10,25 @@ body {
 @tailwind utilities;
 
 @layer components {
+
+  .builder-icon-blue {
+    @apply hover:bg-blue-600 rounded-full cursor-pointer  h-16 w-16 md:w-36 md:h-36;
+  }
+
   .builder-icon {
-    @apply hover:bg-red-500 rounded-full cursor-pointer w-36 h-36 m-6;
+    @apply hover:bg-red-600 rounded-full cursor-pointer  h-16 w-16 md:w-36 md:h-36;
+  }
+
+  .active {
+    @apply bg-red-600;
   }
 
   .choice {
-    @apply font-bold text-white border text-center;
+    @apply font-bold text-white text-center;
   }
 
   .choice-icons {
-    @apply flex flex-col justify-center items-center;
+    @apply flex justify-center items-center gap-4;
   }
 
   .menu-textbox {

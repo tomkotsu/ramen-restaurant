@@ -11,7 +11,7 @@ const Contact = (props) => {
       <div className="contact__wrapper flex flex-col justify-start items-center pt-20 gap-20 pb-20">
         <img src={contactTitle} alt="" className="w-64 h-auto" />
         <div className="address flex flex-col md:flex-row text-white justify-center items-center text-xl">
-          <p className="w-[300px] h-[250px] flex justify-center items-center">
+          <p className="w-[300px] h-[250px] flex justify-center items-center text-right font-bold">
             だるまラーメン<br></br>
             阿佐ヶ谷駅<br></br>
             杉並区<br></br>
@@ -23,12 +23,12 @@ const Contact = (props) => {
             width="300"
             height="250"
             style={{ border: 0 }}
-            allowfullscreen=""
+            allowFullScreen=""
             loading="lazy"
-            referrerpolicy="no-referrer-when-downgrade"
+            referrerPolicy="no-referrer-when-downgrade"
           ></iframe>
         </div>
-        <div className="contactBtns flex justify-evenly items-center gap-2">
+        <div className="contactBtns flex justify-evenly items-center gap-1">
           <a href="mailto:tombinnie@protonmail.com">
             <img src={emailIcon} className="w-20 h-20" />
           </a>

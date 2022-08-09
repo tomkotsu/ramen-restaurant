@@ -22,7 +22,7 @@ const Menu = () => {
           <img src={menu1} alt="" className="menu-image" />
         </div>
         <div className="menu-item md:flex-row-reverse">
-          <div class="menu-textbox">
+          <div className="menu-textbox">
             <h1 className="text-2xl font-bold">醤油デラックス</h1>
             <p>
               ４００円　ー　ほおおおおおおおおおおおおおおお
@@ -33,7 +33,7 @@ const Menu = () => {
           <img src={menu2} alt="" className="menu-image" />
         </div>
         <div className="menu-item">
-          <div class="menu-textbox">
+          <div className="menu-textbox">
             <h1 className="text-2xl font-bold">激辛ダルマ</h1>
             <p>
               ５００円　ー わあああああああああああああああ
