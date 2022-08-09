@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/ramen-restaurant/static/css/main.d3c0d4a2.css",
+    "main.js": "/ramen-restaurant/static/js/main.8f4130b8.js",
+    "static/media/menu-2.jpg": "/ramen-restaurant/static/media/menu-2.2d4674df6a918a642b78.jpg",
+    "static/media/menu-1.jpg": "/ramen-restaurant/static/media/menu-1.b6d56dc8e1ac5a9c8f5f.jpg",
+    "static/media/menu-3.jpg": "/ramen-restaurant/static/media/menu-3.481cae2ba654121731fa.jpg",
+    "static/media/contact-title.png": "/ramen-restaurant/static/media/contact-title.90466c59e0e68648580e.png",
+    "static/media/myramen-title.png": "/ramen-restaurant/static/media/myramen-title.9e70223625dc6ac82380.png",
+    "static/media/chili.png": "/ramen-restaurant/static/media/chili.6d34d46ea5d467c703f8.png",
+    "static/media/daruma-ramen-title.png": "/ramen-restaurant/static/media/daruma-ramen-title.4a46580cb70d907c8c31.png",
+    "static/media/daruma-ramen-slogan.png": "/ramen-restaurant/static/media/daruma-ramen-slogan.34b38975c626259d1db3.png",
+    "static/media/bone-icon.svg": "/ramen-restaurant/static/media/bone-icon.44f9959cca6d0d25d923b1594e06ab1b.svg",
+    "static/media/menu-title.png": "/ramen-restaurant/static/media/menu-title.cb637bffd48cb21f756e.png",
+    "static/media/enoki-icon.svg": "/ramen-restaurant/static/media/enoki-icon.37ff982cf036da27d3d51c5f3b85ea4b.svg",
+    "static/media/daruma-icon.svg": "/ramen-restaurant/static/media/daruma-icon.bbc12f335275fa3c0f3ae2137221dc96.svg",
+    "static/media/seaweed-icon.svg": "/ramen-restaurant/static/media/seaweed-icon.7d1a1a74859a32057cf9bf104a8e5948.svg",
+    "static/media/tofu-icon.svg": "/ramen-restaurant/static/media/tofu-icon.56153910b0e5372e15b19d21d5f0e609.svg",
+    "static/media/ramen-icon.svg": "/ramen-restaurant/static/media/ramen-icon.119acfae805c2c67eaec5978302bb5cb.svg",
+    "static/media/sumo-icon.svg": "/ramen-restaurant/static/media/sumo-icon.c01b60f3d94bfa1043c34ade7a1ab781.svg",
+    "static/media/spronion-icon.svg": "/ramen-restaurant/static/media/spronion-icon.0b8b2837f479b48089a44617392de93a.svg",
+    "static/media/soy-icon.svg": "/ramen-restaurant/static/media/soy-icon.2a5867ceae7a8944b043c6389bdb58ab.svg",
+    "static/media/baseball-icon.svg": "/ramen-restaurant/static/media/baseball-icon.44c5183bdfb450e25d52bdf72eaa302e.svg",
+    "static/media/chicken-icon.svg": "/ramen-restaurant/static/media/chicken-icon.c06a403f069a6f101747a1c0912794d5.svg",
+    "static/media/cv-icon.svg": "/ramen-restaurant/static/media/cv-icon.ff770a1a64c4eb87427d042f6d9c8a41.svg",
+    "static/media/egg-icon.svg": "/ramen-restaurant/static/media/egg-icon.101b091f464c954d273472331138ff2f.svg",
+    "static/media/pig-icon.svg": "/ramen-restaurant/static/media/pig-icon.16c0809cce5f5f425c1cba1c7c49fcb2.svg",
+    "static/media/miso-icon.svg": "/ramen-restaurant/static/media/miso-icon.67c63e7585a5e78b8b22b11bf6578777.svg",
+    "static/media/email-icon.svg": "/ramen-restaurant/static/media/email-icon.cf9c46c9089daa20cfd0431508a9cb99.svg",
+    "static/media/linkedin-icon.svg": "/ramen-restaurant/static/media/linkedin-icon.13c7858fcc0e131a39fda2ece1e1ef32.svg",
+    "index.html": "/ramen-restaurant/index.html",
+    "static/media/github-icon.svg": "/ramen-restaurant/static/media/github-icon.af7b39f44e3c651baf4222a8ce9e9e33.svg",
+    "main.d3c0d4a2.css.map": "/ramen-restaurant/static/css/main.d3c0d4a2.css.map",
+    "main.8f4130b8.js.map": "/ramen-restaurant/static/js/main.8f4130b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3c0d4a2.css",
+    "static/js/main.8f4130b8.js"
+  ]
+}
