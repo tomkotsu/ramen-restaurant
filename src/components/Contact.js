@@ -11,7 +11,7 @@ const Contact = (props) => {
       <div className="contact__wrapper flex flex-col justify-start items-center pt-20 gap-20 pb-20">
         <img src={contactTitle} alt="" className="w-64 h-auto" />
         <div className="address flex flex-col md:flex-row text-white justify-center items-center text-xl">
-          <p className="w-[300px] h-[250px] flex justify-center items-center text-right font-bold">
+          <p className="w-[300px] h-[250px] flex justify-center items-center text-center md:text-right font-bold">
             だるまラーメン<br></br>
             阿佐ヶ谷駅<br></br>
             杉並区<br></br>
