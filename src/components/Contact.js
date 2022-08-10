@@ -1,4 +1,5 @@
 import React from "react";
+import pdf from "../tb-cv.pdf";
 import contactTitle from "../imgs/contact-title.png";
 import emailIcon from "../imgs/contact-icons/email-icon.svg";
 import linkedinIcon from "../imgs/contact-icons/linkedin-icon.svg";
@@ -32,8 +33,8 @@ const Contact = (props) => {
           <a href="mailto:tombinnie@protonmail.com">
             <img src={emailIcon} className="w-20 h-20" />
           </a>
-          <a href="#">
-            <img src={cvIcon} className="w-20 h-20" />
+          <a href={pdf}>
+            <img src={cvIcon} className="w-20 h-20" target="_blank" />
           </a>
           <a href="https://github.com/tomkotsu" target="_blank">
             <img src={githubIcon} className="w-20 h-20" />
