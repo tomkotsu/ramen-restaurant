@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/ramen-restaurant/static/css/main.3575809b.css",
-    "main.js": "/ramen-restaurant/static/js/main.c93eae71.js",
+    "main.js": "/ramen-restaurant/static/js/main.01b9a7f6.js",
     "static/media/menu-2.jpg": "/ramen-restaurant/static/media/menu-2.2d4674df6a918a642b78.jpg",
     "static/media/menu-1.jpg": "/ramen-restaurant/static/media/menu-1.b6d56dc8e1ac5a9c8f5f.jpg",
     "static/media/menu-3.jpg": "/ramen-restaurant/static/media/menu-3.481cae2ba654121731fa.jpg",
-    "static/media/tb-cv.pdf": "/ramen-restaurant/static/media/tb-cv.1f2c6d5aa855b4ae4d3e.pdf",
+    "static/media/tb-cv.pdf": "/ramen-restaurant/static/media/tb-cv.2097fcd14561eaac466c.pdf",
     "static/media/contact-title.png": "/ramen-restaurant/static/media/contact-title.90466c59e0e68648580e.png",
     "static/media/myramen-title.png": "/ramen-restaurant/static/media/myramen-title.9e70223625dc6ac82380.png",
     "static/media/chili.png": "/ramen-restaurant/static/media/chili.6d34d46ea5d467c703f8.png",
@@ -32,10 +32,10 @@
     "index.html": "/ramen-restaurant/index.html",
     "static/media/github-icon.svg": "/ramen-restaurant/static/media/github-icon.af7b39f44e3c651baf4222a8ce9e9e33.svg",
     "main.3575809b.css.map": "/ramen-restaurant/static/css/main.3575809b.css.map",
-    "main.c93eae71.js.map": "/ramen-restaurant/static/js/main.c93eae71.js.map"
+    "main.01b9a7f6.js.map": "/ramen-restaurant/static/js/main.01b9a7f6.js.map"
   },
   "entrypoints": [
     "static/css/main.3575809b.css",
-    "static/js/main.c93eae71.js"
+    "static/js/main.01b9a7f6.js"
   ]
 }
